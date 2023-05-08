@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/primeng/resources/themes/mdc-light-deeppurple/theme.css";  
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+
+
+/* header */
+.head {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(  --surface-200 );
+    color: var(  --surface-200 );
+    font-family: var(--font-family);
+    padding: 18px;
+}

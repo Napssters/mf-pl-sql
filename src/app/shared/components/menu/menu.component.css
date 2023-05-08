@@ -1,0 +1,12 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    margin: 0 -10px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
